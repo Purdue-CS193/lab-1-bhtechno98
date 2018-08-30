@@ -2,7 +2,7 @@
 
 ##Favorite things about Purdue CS193:
 
-1.TA's are CS students
+1. TA's are CS students
 2. It teaches important CS basics, which are usually "assumed" to be known 
 3. Not a lot of work
 
