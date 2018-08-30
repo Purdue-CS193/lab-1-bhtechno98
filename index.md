@@ -1,10 +1,12 @@
 ## Welcome to Sayed's first CS193 Lab!
 
-##Favorite things about Purdue CS193:
+###Favorite things about Purdue CS193:
 
 1. TA's are CS students
 2. It teaches important CS basics, which are usually "assumed" to be known 
 3. Not a lot of work
+
+##
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
